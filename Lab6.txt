@@ -1,0 +1,5 @@
+neither removes work
+is empty returns true
+push back pushes to the front
+
+Ethan Lefert
